@@ -7,7 +7,7 @@ PHP ve Web Programlamayı öğrenmeyi hedefleyen kişiler için kendilerine sorm
 Aşağıda listelenen soruları cevaplarken hepsini bir arada cevaplamaya çalışmak faydasız olacaktır. Bu durum zaten bizim öğrenmeye çalışırken düştüğümüz ilk hata oluyor ve ilk zamanki boşluğa tekrar düşmüş oluyoruz. Bunun için soruları cevaplarken  ya da cevaplarını araştırırken adım adım gitmek faydanıza olacaktır. Her sorunun cevabını özellikle araştırmak ve özümsemek gerekir.
 
 ## Sorular ##
-1. Web sayfalarını oluşturmak için hangi diller kullanılır?
+1. [Web sayfalarını oluşturmak için hangi diller kullanılır?](https://github.com/hkulekci/Web-Programming-with-PHP/wiki/Web-sayfalar%C4%B1n%C4%B1-olu%C5%9Fturmak-i%C3%A7in-hangi-diller-kullan%C4%B1l%C4%B1r%3F)
 2. HTML sayfası nedir? HTMl kodunu nerde ve nasıl yazarım?
 * Hosting/Server nedir?
 * Localhost/Local Server nedir?
