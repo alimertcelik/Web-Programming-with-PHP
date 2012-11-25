@@ -8,7 +8,7 @@ Aşağıda listelenen soruları cevaplarken hepsini bir arada cevaplamaya çalı
 
 ## Sorular ##
 1. [Web sayfalarını oluşturmak için hangi diller kullanılır?](https://github.com/hkulekci/Web-Programming-with-PHP/wiki/Web-sayfalar%C4%B1n%C4%B1-olu%C5%9Fturmak-i%C3%A7in-hangi-diller-kullan%C4%B1l%C4%B1r%3F)
-2. HTML sayfası nedir? HTMl kodunu nerde ve nasıl yazarım?
+2. [HTML sayfası nedir? HTML kodunu nerde ve nasıl yazarım?](https://github.com/hkulekci/Web-Programming-with-PHP/wiki/HTML-sayfas%C4%B1-nedir%3F-HTML-kodunu-nerde-ve-nas%C4%B1l-yazar%C4%B1m%3F)
 * Hosting/Server nedir?
 * Localhost/Local Server nedir?
 * Apache Server nedir ve nasıl kurulur?
